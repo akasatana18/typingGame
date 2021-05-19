@@ -1,0 +1,5 @@
+unityroomにて公開しているタイピングゲームのコードの一部です。
+ミス入力した際に、どのキー押したかをわかるようにしています。
+
+下記は、ゲームのURLです。
+https://unityroom.com/games/hamayarawa-taipingmaster
